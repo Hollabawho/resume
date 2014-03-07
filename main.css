@@ -1,0 +1,169 @@
+body {
+	margin:0;
+	padding:0;
+	background-color: #363636;
+}
+
+.site__nav {
+	top: 0;
+	background: #000000;
+	color:white;
+	display:block;
+	margin: 0 0 0 0;
+	border-radius: 0;
+	position: fixed;
+	z-index: 1030;
+	right: 0;
+	left: 0;
+	height:70px;
+	float: left;
+}
+
+button {
+	  background: #FF006F;
+      color: white;
+      width:180px;
+      border-radius:8px;
+      height:55px;
+      border: 1px;
+      font-weight: ormal;
+      display:block;
+      margin:0 auto;
+      font-size:18px;
+      font-family:"open-sans";
+}
+
+.resumebttn {
+	  display:block;
+   	  margin:0 auto;
+   	  text-align: center;
+   	  padding: 40px 0 0 0;
+   	  height:100px;
+}
+
+h1 {
+  font-family: "jubilat";
+  line-height: 25pt;
+  min-height: 20px;
+  font-weight: 600px;
+  font-style: italic;
+  text-align: center;
+  padding-top:40px;
+}
+
+.callout {
+  background: rgba(0,0,0,0.5);
+  padding:44px; 
+  color: white;
+  font-family: "jubilat";
+  font-weight: 300px;
+  font-style: italic;
+  letter-spacing: 1px;
+  font-size:45px;
+  text-align:center;
+  width:100%;
+  margin:0 auto;
+}
+
+.Headline {
+	margin-bottom:0px;
+	display: block;
+	text-align: center;
+	font-size:50px;
+	padding-top:80px;
+}
+
+.brooke {
+	text-align:center;
+    float:none;
+    padding-bottom: 50px;
+    opacity:.9;
+}
+
+.social-media {
+	margin: 0px 40px 2px 8px;
+	display:inline-block;
+	float:right;
+}
+
+.social-media li{
+	display:inline-block;
+	padding: 10px 3px;
+}
+
+.Links {
+	float: left;
+}
+
+.Links li {
+	display: inline-block;
+	padding: 5px 15px;
+	float: left;
+}
+
+.Links li a {
+	font-family: "open-sans";
+	font-style: normal;
+	font-weight: 600px;
+	color: #4f4f4f;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+.logoname {
+	font-family: "jubilat";
+	font-weight: 400;
+	font-style: normal;
+	font-size:22px;
+	letter-spacing:1px;
+	margin-right:20px;
+}
+
+.imgcontainer {
+	background-image:url("images/symbolbg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.footerbutton {
+	text-align: center;
+	vertical-align: center;
+}
+
+.footer {
+	color: white;
+	max-width: 890px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+h3 {
+	font-family: "jubilat",sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size:28px;
+	letter-spacing:1px;
+	margin: 0 auto;
+	padding-top:60px;
+}
+
+p {
+	font-family: "open-sans", sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size:17px;
+	letter-spacing:1px;
+	line-height:33px;
+	margin: 10px;
+	padding: 30px 0 50px 0;
+}
+
+.bcwrapper {
+	background-color:#000000;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
